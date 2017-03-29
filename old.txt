@@ -1,0 +1,7 @@
+mysql_real_escape_string(
+mysql_error(
+mysql_close(
+mysql_query(
+mysql_num_rows
+mysql_connect
+mysql_fetch_array

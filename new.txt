@@ -1,0 +1,7 @@
+mysqli_real_escape_string($con, 
+mysqli_error($con
+mysqli_close($con
+mysqli_query($con, 
+mysqli_num_rows
+mysqli_connect
+mysqli_fetch_array
